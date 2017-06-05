@@ -1,0 +1,9 @@
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\bin\Debug\RegionSplitting.exe.config
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\bin\Debug\RegionSplitting.exe
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\bin\Debug\RegionSplitting.pdb
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.RegionSplitting.resources
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.Properties.Resources.resources
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.csproj.GenerateResource.Cache
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.exe
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.pdb
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\RegionSplitting\obj\Debug\RegionSplitting.csprojResolveAssemblyReference.cache

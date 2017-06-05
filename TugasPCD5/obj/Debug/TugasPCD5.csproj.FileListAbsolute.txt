@@ -1,0 +1,9 @@
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\bin\Debug\TugasPCD5.exe.config
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\bin\Debug\TugasPCD5.exe
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\bin\Debug\TugasPCD5.pdb
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.csprojResolveAssemblyReference.cache
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.SegmentasiHuruf.resources
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.Properties.Resources.resources
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.csproj.GenerateResource.Cache
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.exe
+c:\users\rasyadh abdul aziz\documents\visual studio 2013\Projects\TugasPCD5\TugasPCD5\obj\Debug\TugasPCD5.pdb

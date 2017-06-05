@@ -1,0 +1,9 @@
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\bin\Debug\TemplateMatching.exe.config
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\bin\Debug\TemplateMatching.exe
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\bin\Debug\TemplateMatching.pdb
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.csprojResolveAssemblyReference.cache
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.Properties.Resources.resources
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.csproj.GenerateResource.Cache
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.exe
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.pdb
+C:\Users\Rasyadh Abdul Aziz\documents\visual studio 2013\Projects\TugasPCD5\TemplateMatching\obj\Debug\TemplateMatching.TemplateMatching.resources
